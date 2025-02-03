@@ -1,0 +1,38 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffdfdf; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    
+  }
+  
+  
+  .container {
+    text-align: center;
+  }
+  
+  .gif {
+    width: 300px;
+    height: 300px;
+    justify-content: center;
+  }
+  
+  .message {
+    font-size: 32px;
+    color: #ff4b4b; 
+    margin-top: 20px;
+  }
+
+  .text {
+    color: white;
+    font-size: 50px
+  
+    
+
+  
+  }
